@@ -1,13 +1,11 @@
 # TingGeXiang-music 基于网易云音乐API实现PC端音乐网站
 
 
-####  **=======》 [网易云音乐PC端音乐Vue 3.0 改版](https://gitee.com/trtst/vue3.x_music)《=======** 
 
 
 #### 介绍
 采用VUE及网易云音乐 Node.js API service实现，网站风格参考了各平台，感谢[网易云音乐 NodeJS 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)！
-:joy:  感觉写的很乱，功能虽已实现，但是代码还亟待优化，码农不易，欢迎 **starred** ,hhhh~
-
+:joy:  
 
 #### 仅供学习使用 不作任何商业用途
 
