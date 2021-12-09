@@ -5,7 +5,7 @@
 
 #### 介绍
 采用VUE及网易云音乐 Node.js API service实现，网站风格参考了各平台，感谢[网易云音乐 NodeJS 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)！
-:joy:  
+
 
 #### 仅供学习使用 不作任何商业用途
 
